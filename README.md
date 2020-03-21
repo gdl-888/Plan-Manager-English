@@ -1,2 +1,4 @@
-# Plan-Manager-English
-Plan, task, contact manager - English version
+# Plan-Manager
+~~깃허브가 VB6을 인식하는지 테스트하려고 만든 레보지토리~~
+
+VB6으로 만든 일정관리자 프로그램.
