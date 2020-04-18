@@ -1,3 +1,5 @@
+**Deprecated - check out [here](https://github.com/gdl-888/Plan-Manager) - supports English**
+
 # Plan-Manager
 The Plan-Manager application in English!
 
